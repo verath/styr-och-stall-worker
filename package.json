@@ -1,0 +1,21 @@
+{
+  "name": "StyrOchStallWorker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babel": "^4.6.6",
+    "bluebird": "^2.9.13",
+    "console-stamp": "^0.1.5",
+    "firebase": "^2.2.1",
+    "request-promise": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm install && node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Eliasson",
+  "license": "MIT"
+}
